@@ -10,12 +10,17 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItTechnicalPlanning&layout=compact&hide_border=true&title_color=5786FF&text_color=5786FF&bg_color=0d1117" />
 </div>
 
-
 <!-- Visitor Count -->
 <div align="center">
   <br><p align="center"><b>Visitors Count</b></p>  
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{ItTechnicalPlanning}/count.svg" /></p> 
   <br>
+</div>
+
+<!-- Account Information -->
+<div align="center">
+  <p>This account is managed by <b>Christian Oliveira</b>.</p>
+  <p>Visit my <a href="https://christianduhp.github.io/my-portfolio/">Portfolio</a> | <a href="https://github.com/christianduhp/christianduhp">GitHub</a></p>
 </div>
 
 <!-- Footer -->
